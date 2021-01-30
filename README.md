@@ -6,6 +6,7 @@
 
 ## Technologies Used
 - React.js
+- TypeScript
 - Node.js
 - Express
 - Webpack
